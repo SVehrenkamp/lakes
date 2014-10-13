@@ -1,0 +1,5 @@
+<div ng-controller="LakesCTRL" id="lakes-container">
+	<ul>
+		<li ng-repeat="lake in lakes | limitTo:q"><a href="#">{{lake.lakeName}}</a></li>
+	</ul>
+</div>

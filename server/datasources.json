@@ -1,0 +1,10 @@
+{   
+	"db": {     "name": "db",     "connector": "memory"   },   
+	"lakes": {
+		"name": "lakes",     
+		"connector": "mongodb",     
+		"host": "127.0.0.1",
+		"database": "lakes",
+		"port": 27017   
+	} 
+}

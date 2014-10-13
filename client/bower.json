@@ -1,0 +1,30 @@
+{
+  "name": "LakesAPI",
+  "version": "0.0.1",
+  "authors": [
+    "Scott Vehrenkamp <scott@vehrenkamp.com>"
+  ],
+  "description": "LakesAPP with API and Angularjs Front-End",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.11",
+    "angular": "~1.2.26",
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1",
+    "underscore": "~1.7.0"
+  }
+}
