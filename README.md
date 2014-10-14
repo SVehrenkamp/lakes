@@ -4,10 +4,11 @@ MEANLakes is a Lake finder application built using the MEAN development stack an
 
 Requirements
 ============
--MongoDB
--Node.js & NPM
--Strongloop
--Bower
+-MongoDB<br>
+-Node.js<br>
+-NPM<br>
+-Strongloop<br>
+-Bower<br>
 
 Installation
 ============
