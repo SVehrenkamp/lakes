@@ -40,7 +40,7 @@ Navigate to this in your browser to view the main page of the app.<br>
 
 REST API
 ========
-A preconfigured REST API for the lakes collection is available to you as a service call made to ``http://localhost:3000/api/lakes/{params}```<br>
+A preconfigured REST API for the lakes collection is available to you as a service call made to ```http://localhost:3000/api/lakes/{params}```<br>
 Alternatively, you can browse all the API endpoints for the lakes collection by navigating to ```http://localhost/explorer/#!/lakes```<br>
 
 Authentication
