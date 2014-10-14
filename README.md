@@ -14,6 +14,6 @@ Installation
 ============
 First make sure that you have the above requirements installed.
 From the command line import the mongoDB BSON dump into your mongoDB instance:<br>
-'''
+```
 mongorestore /path/to/repo/db/lakes
-'''
+```
